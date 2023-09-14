@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu:::Qrw3laAZ#tq0gCAoblZnfsK_dmGh0QnJdaARRjbQI tSO9xMLbKWI' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://ruch_user:6LEaGnmSEKZh18RisC0QvAgdsWsDFjbi@dpg-ck1pe7n03lhc73bsaf5g-a.frankfurt-postgres.render.com/ruch'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '212631776724'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'bada'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
